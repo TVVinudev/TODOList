@@ -34,8 +34,8 @@ Follow these steps to get the project up and running on your local machine.
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/your-username/todo-list-app.git
-  cd todo-list-app
+  git clone https://github.com/TVVinudev/TODOList.git
+  cd TODOList
   ```
 - Install dependencies:
   ```bash
