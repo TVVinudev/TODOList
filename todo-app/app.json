@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "todo-app",
+    "slug": "todo-app",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "6dde0cf8-e57d-4592-bcc0-9861feff3874"
+      }
+    }
+  }
+}
