@@ -16,7 +16,7 @@ Welcome to the Todo List Mobile Application! This is a simple and intuitive mobi
 
 # Technologies Used
 
-   <img src="https://skillicons.dev/icons?i=react" /><br>
+   <img src="https://skillicons.dev/icons?i=react,nestjs" /><br>
 
 # Getting Started
 
